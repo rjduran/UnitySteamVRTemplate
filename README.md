@@ -14,7 +14,15 @@ To use this template:
 
 Tutorial Videos
 
+The following tutorials show how to setup a project like this from scratch. This template was created to simplify the process of setting up a SteamVR based project.
+
 * [Introduction to SteamVR (Feb 2021)](https://youtu.be/PPV0kUbpq60)
 * [How to Setup SteamVR Plugin in Unity (Feb 2021)](https://youtu.be/e7tVyws-q0A)
 * [SteamVR: How to add Teleportation to Scene (Mar 2021)](https://youtu.be/r2IspfutZZo)
 * [SteamVR: How to add Object Interaction to Scene (Mar 2021)](https://youtu.be/HPR6D_ynN70)
+
+Tools
+
+* Unity 2020.3.26f1 LTS
+* SteamVR Plugin: 2.7.3 (sdk 1.14.15) - Feb 23, 2021
+* SteamVR Runtime: Tested with 1.20.4 - Oct 27, 2021
